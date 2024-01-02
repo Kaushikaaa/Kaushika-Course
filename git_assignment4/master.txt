@@ -1,1 +1,2 @@
 master branch content
+edited master.txt in private branch
